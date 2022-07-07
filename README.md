@@ -1,2 +1,2 @@
 # DevOps-Core-Fundamental-Project
-This is my DevOps Fundamental Project for QA Training Academy
+This is my DevOps Core Fundamental Project for QA Training Academy
