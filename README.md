@@ -17,4 +17,10 @@
         <p> ○ Remove any item from the database
 
 # Planning & Design
+## ERD
+<p> To begin with, I had made an Entity Relationship Diagram for the database. This was to help me show the relationship that each of the tables would have in the development process. Below is how the ERD looks for my database.
+<p>
+![image](https://user-images.githubusercontent.com/60227889/182921550-c951d57c-6647-439c-b799-a1003e7d5865.png)
+
+
 
