@@ -8,7 +8,7 @@
 <p> ○ Keep track of the different books that they have available
 <p> ○ Details of readers borrowing books in the library
 
-<p> Implicit CRUD Functionality of this app will include:
+### Implicit CRUD Functionality for the app
 <p>	- CREATE
 	<p> ○ Add books
 	<p> ○ Add user
