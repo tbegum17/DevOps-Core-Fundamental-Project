@@ -6,11 +6,11 @@
   
 <p> Implicit CRUD Functionality of this app will include:
 <p>	• CREATE
-		○ Add books
-		○ Add user
-	• READ
-		○ View books
-		○ View users
+	<p> ○ Add books
+	<p> ○ Add user
+<p>     • READ
+	<p> ○ View books
+	<p> ○ View users
 	• UPDATE
 		○ Edit details of all items in the database
 	• DELETE
