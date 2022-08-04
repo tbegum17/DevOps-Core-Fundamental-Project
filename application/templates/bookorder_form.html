@@ -1,0 +1,13 @@
+{% extends 'layout.html' %}
+{% block body %}
+<div class="BookOrderForm">
+    <form method="POST" action="">
+        {{ form.hidden_tag() }}
+        {{ form.book_id.label }} {{ form.book_id }}<br>
+        {{ form.customer_id.label }} {{ form.customer_id }}<br>
+        {{ form.order_date.label }}  {{ form.order_date}}<br>
+        {{ form.due_date.label }} {{ form.due_date }}<br>
+        {{ form.submit }}
+    </form>
+</div>
+{% endblock body %}

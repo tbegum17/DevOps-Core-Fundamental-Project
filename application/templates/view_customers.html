@@ -1,0 +1,11 @@
+{% extends 'layout.html' %}
+{% block body %}
+<h2>{{ entity }} List</h2>
+{% for customer in customers %}
+{{ customer.__str__() }}  
+{% if entity == 'customer' %}
+Assignee: {{ customer.customer.__str__() }}
+{% endif %}
+<br>
+{% endfor %}
+{% endblock body %}
