@@ -5,7 +5,7 @@
 <p> ○ Details of readers borrowing books in the library
   
 <p> Implicit CRUD Functionality of this app will include:
-	• CREATE
+<p>	• CREATE
 		○ Add books
 		○ Add user
 	• READ
