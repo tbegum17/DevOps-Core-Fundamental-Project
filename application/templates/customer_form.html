@@ -3,9 +3,9 @@
 <div class="CustomerForm">
     <form method="POST" action="">
         {{ form.hidden_tag() }}
-        {{ form.customer_name.label }} {{ form.customer_name }}
-        {{ form.customer_address.label }} {{ form.customer_address }}
-        {{ form.customer_email.label }} {{ form.customer_email }}
+        {{ form.customer_name.label }} {{ form.customer_name }}<br>
+        {{ form.customer_address.label }} {{ form.customer_address }}<br>
+        {{ form.customer_email.label }} {{ form.customer_email }}<br>
 
         <br>
         {{ form.submit }}

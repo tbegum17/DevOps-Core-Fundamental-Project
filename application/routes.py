@@ -35,7 +35,8 @@ def add_book():
 
 @app.route('/customer_form')
 def add_customer():
-    return render_template ('customer_form.html')
+    form = CustomerForm()
+    return render_template ('customer_form.html', form=form)
 
 @app.route('/create-customer', methods=['GET', 'POST'])
 def create_new_customer():
@@ -58,11 +59,11 @@ def add_new_order():
         customer_id = form.customer_id.data
         order_date = form.order_date.data
         due_date = form.due_date.data
-        new_bookorder = Book_Order(book_id=book_id, customerid=customer_id, order_date=order_date,due_date=due_date,)
+        new_bookorder = Book_Order(book_id=book_id, customer_id=customer_id, order_date=order_date,due_date=due_date,)
         db.session.add(new_bookorder)
         db.session.commit()
-        return redirect(url_for('bookorder_form'))
-    return render_template('bookorder_form.html')
+        return redirect(url_for('add_new_order'))
+    return render_template('bookorder_form.html', form=form)
 
 
 @app.route('/view-customers')
