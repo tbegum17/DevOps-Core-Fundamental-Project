@@ -11,9 +11,9 @@
 <p>     - READ
 	<p> ○ View books
 	<p> ○ View users
-	- UPDATE
+<p>     - UPDATE
 	<p> ○ Edit details of all items in the database
-	- DELETE
+<p>     - DELETE
         <p> ○ Remove any item from the database
 
 
