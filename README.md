@@ -16,5 +16,5 @@
 <p>     - DELETE
         <p> ○ Remove any item from the database
 
-
+# Planning & Design
 
