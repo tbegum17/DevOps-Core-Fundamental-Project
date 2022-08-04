@@ -9,16 +9,16 @@
 <p> ○ Details of readers borrowing books in the library
 
 ### Implicit CRUD Functionality for the app
-<p>	- CREATE
-	<p> ○ Add books
-	<p> ○ Add user
-<p>     - READ
-	<p> ○ View books
-	<p> ○ View users
-<p>     - UPDATE
-	<p> ○ Edit details of all items in the database
-<p>     - DELETE
-        <p> ○ Remove any item from the database
+<p> CREATE
+<p> ○ Add books
+<p> ○ Add user
+<p> READ
+<p> ○ View books
+<p> ○ View users
+<p> UPDATE
+<p> ○ Edit details of all items in the database
+<p> DELETE
+<p> ○ Remove any item from the database
 
 ## Planning & Design
 ### ERD
