@@ -73,5 +73,5 @@
 
 ## Personal Development
 - If I was to complete a project like this for next time it would mainly be to practice and improve my coding skills before starting the project. This is because for this project I had always spent a lot of time fixing errors which turned out to be silly mistakes. If I did not have these errors to worry about I could have spent working on the actual project and having everything completed. 
-- Time management is an key aspect I would improve on to since for the project I did not really allocate myself enough time to complete tasks or - I was spending a long time doing small tasks which could have finished a lot quicker if I had managed my time better. 
+- Time management is an key aspect I would improve on to. This is because for the project I did not really allocate myself enough time to complete tasks or - I was spending a long time doing small tasks which could have finished a lot quicker if I had managed my time better. 
 
