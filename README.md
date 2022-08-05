@@ -37,28 +37,28 @@
 <p>
 <img src = "https://user-images.githubusercontent.com/60227889/182939899-acc2d865-0da1-4bdc-9cf5-bc031a34a99f.png">
 
-### Front End
-#### Homepage
+## Front End
+### Homepage
 <p> The homepage is the first page that users will be directed to when trying to access the application. This can be navigated through using the '/' url suffix or entering '/Home' along with the localhost address. The homepage essentially shows a brief introduction to the application and what users can do on it.
 
 <img src = "https://user-images.githubusercontent.com/60227889/182939395-b1eeaa90-9c89-4a0f-b98d-3e04dd73417e.png">
 
-#### Customers Form Page
+### Customers Form Page
 <p> The Customers Form page allows the staff at Stratford library to enter in details of customers who often borrow books from the library via the form made. Having this information would be vital for the staff at Stratford Library in case they may wish to contact the customer regarding overdue books or events going on at the library.
 
 <img src = "https://user-images.githubusercontent.com/60227889/182942714-4aae160e-6f97-42f6-a3a2-201e673cf071.png">
 
-#### Book Form Page
+### Book Form Page
 <p> The Book Form Page allows the staff at the Stratford library to add in details regarding the various books that they have avaliable in the library by using the form created on the page. The staff can also use this for when there is a new set of books delivered to the library so that they are aware of the books avaliable as well as - include in the key information about each book such as the author and genre which can come in handy when organising the library bookshelves.
 
 <img src = "https://user-images.githubusercontent.com/60227889/182943344-fee79d0e-f172-4027-9e77-5540652d0ba6.png">
 
-#### Book Order Form Page
+### Book Order Form Page
 <p> The Book Order Form page allows the staff at the library to add in information about the books that have been borrowed and which customers have borrowed them. This can help them to keep track of which customers are due to return their books and what books they have borrowed.
 	
 <img src = "https://user-images.githubusercontent.com/60227889/182944083-c4161bee-0635-45d1-9f3c-48e0632817db.png">
 
-### Testing
+## Testing
 <p> For this app, testing was required to be completed to check if the app is functioning and meets the overall objective of the project. The tests that were done to determine this was unit testing and the test coverage of the functions tested were 93% which can be seen in the image below. 
 
 <img src = "https://user-images.githubusercontent.com/60227889/182945496-04a32dbd-1c7f-4638-a6c9-2fc4d4ed9cae.png">
@@ -67,5 +67,6 @@
 
 <img src = "https://user-images.githubusercontent.com/60227889/182945826-c0fab5e0-d3c9-4b71-8878-5a098d1cc5bc.png">
 
-
+## Future Development
+The app right now is functionable and able to complete most of the functionalities required for the staff to use in the library. If I was to make improvements to the project it would have been to include a functioning Jenkins server. I had attempted to complete this in the application but it was not functionable and there were many errors while it was being ran. Furthermore, for the application I would have added in more CSS style code to make it more user friendly eventhough -  the application is working it is defintely not user friendly and that is an important aspect when creating an application.
 
